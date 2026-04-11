@@ -1,0 +1,12 @@
+{
+  "export_job_id": "8374ad1b-4bad-4407-9256-1414c18b85b3",
+  "id_short": 479680,
+  "published_at": "2026-04-11T19:10:07Z",
+  "repo_name": "all-restaurants-in-round-rock-texas-us-sample-479680",
+  "sample_asset_name": "beamstation_479680_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/479680/beamstation_479680_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_records": 36,
+  "sample_sha256": "82ad80b1e0f6566cde082638d69cb03900b4d191fb30535e54d0be78a1d6062e",
+  "sample_size_bytes": 150796,
+  "total_records": 360
+}
