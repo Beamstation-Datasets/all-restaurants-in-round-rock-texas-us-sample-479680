@@ -1,6 +1,6 @@
 # All Restaurants in Round Rock, Texas, US
 
-> Free BeamStation sample export with 29 rows and masked direct-contact fields.
+> Free BeamStation sample export with 38 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `479680` |
 | Location | Round Rock |
 | Category | Restaurants |
-| Full dataset size | 291 records |
-| Free sample size | 29 records (9.97%) |
-| Last export | 2026-04-23T10:29:17.806459+00:00 |
+| Full dataset size | 384 records |
+| Free sample size | 38 records (9.9%) |
+| Last export | 2026-04-30T21:27:16.181952+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-round-rock-texas-us-sample-479680/releases/download/sample-latest/beamstation_479680_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
